@@ -10,6 +10,8 @@ This was a fun excuse build a Django app, use ChatGPT, and use the Strava webhoo
 
 [Activity Title](https://activitytitle.com/)
 
+[GitHub](https://github.com/roryhr/activity-title)
+
 # Donut Reviews
 Since 2014 I've been adding to a personal Facebook album called "Donut Selfies". 
 When I visit a new place I look for a mom-and-pop donut shop, try out their wares, and take a bad selfie.
